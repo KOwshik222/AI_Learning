@@ -1,0 +1,16 @@
+name = "koushik"
+age = 22
+print(name)
+print(age)
+print(type(name))
+print(type(age))
+name = input("enter your name")
+age = input("enter your age")
+print("hello", name)
+print("your age is", int(age)+1)
+age = int(input("enter your age"))
+print("your age in next 5 years is ", age+5)
+print("your age in next  ",age*20)
+a = int(input("enter a number"))
+b = int(input("enter a number"))
+sum = print(a+b)
