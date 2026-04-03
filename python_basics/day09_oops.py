@@ -55,6 +55,6 @@ class Rectangle:
         print(f"area is :{self.area()}")
 rect = Rectangle(2,3)
 rect.display()
-    
+
 
 
